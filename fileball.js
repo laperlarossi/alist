@@ -20,7 +20,7 @@ force-http-engine-hosts = %APPEND% *.example.com:0
 [Script]
 云盘挂载 = type=http-request,pattern=^http:\/\/(aliyun|quark|pikpak)\.example\.com,requires-body=1,script-path= https://raw.githubusercontent.com/laperlarossi/alist/main/fileball.js
 
-Fileball挂载图标：https://raw.githubusercontent.com/githubdulong/Script/master/Images/Fileball.json
+Fileball挂载图标：https://raw.githubusercontent.com/laperlarossi/alist/main/fileball.json
 
 */
 
